@@ -8,3 +8,9 @@ body {
   width: 100vw;
   height: 100vh;
 }
+
+.container {
+  height: 50vh;
+  width: 30vw;
+  margin: 25vh auto;
+}
