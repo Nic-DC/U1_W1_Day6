@@ -80,5 +80,5 @@ let birthYear = currentYear - age;
 console.log({ birthYear });
 
 let homework = `${greeting}, I am ${age} years old, was born in Romania, and currently live in Malta`;
-// const text = document.querySelector("h1");
-// text.textContent = homework;
+const text = document.querySelector("h1");
+text.textContent = homework;
